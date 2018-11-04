@@ -1,8 +1,0 @@
-TestRepo Nov 4 Text file
----------------------------------------
-• Nov 4 - Time: [14:35]
-• Nov 4 - Time: [14:45]
-
-• Nov 4 - Time: [14:55]
-
-• Nov 4 - Time: [15:16] This is after the commit reversal and adding .txt to file name.
